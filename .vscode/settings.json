@@ -1,0 +1,6 @@
+{
+  // Turn off automatic inline "ghost text" suggestions (Copilot and similar)
+  // in this workspace only, so I write the solutions myself.
+  // The normal IntelliSense dropdown (struct fields, function names) stays on.
+  "editor.inlineSuggest.enabled": false
+}
