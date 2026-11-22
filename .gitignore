@@ -1,0 +1,7 @@
+# Puzzle inputs are personal; AoC asks that they not be shared publicly.
+input*.txt
+
+# Compiled binaries (go build in dayNN/ produces dayNN/dayNN)
+/day*/day[0-9][0-9]
+*.exe
+__debug_bin*
